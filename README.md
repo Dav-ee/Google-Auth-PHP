@@ -1,2 +1,2 @@
 # Google-Auth-PHP
-### Google authentication using PHP. For both login and signup.
+### Google authentication using PHP (login and signup).
